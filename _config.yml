@@ -1,0 +1,19 @@
+# Site settings
+title: ChitChat
+email: liuyuxin314@github.io
+baseurl: "" # the subpath of your site, e.g. /blog
+#url: "Liuyxxx314.github.io" # the base hostname & protocol for your site
+
+# Sidebar settings
+description: Happy
+
+# Social icons
+# linkedin: username
+github: Liuyxxx
+# deviantart: username
+# codepen: username
+
+footer: © Taken theme
+
+# Build settings
+markdown: kramdown
